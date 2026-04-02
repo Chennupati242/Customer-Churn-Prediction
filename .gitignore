@@ -1,0 +1,10 @@
+# Mac files
+.DS_Store
+
+# Python files
+__pycache__/
+*.py[cod]
+venv/
+
+# Visuals/Data (Optional: only if you don't want to sync them)
+# .env
